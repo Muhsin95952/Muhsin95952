@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhsin Shah</h1>
-<h3 align="center">DevOps & Computer Systems Engineering</h3>
+<h3 align="center">DevOps & Computer Systems Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhsin95952&label=Profile%20views&color=0e75b6&style=flat" alt="muhsin95952" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **muhsinshah95952@gmail.com**
 
-- ⚡ Fun fact **I think I am serious with Programming and my fielf**
+- ⚡ Fun fact **I think I am serious with Programming and my field**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
