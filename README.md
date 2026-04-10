@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhsin95952&label=Profile%20views&color=0e75b6&style=flat" alt="muhsin95952" /> </p>
 
-(https://github-profile-trophy.vercel.app/?username=muhsin95952&title=Stars,Followers,repositories,commits)
+[(https://github-profile-trophy.vercel.app/?username=muhsin95952&title=Stars,Followers,repositories,commits)](https://github-profile-trophy.vercel.app/?username=muhsin95952&title=Stars,Followers,Repositories,Commits,Issues,PullRequest,MultipleLang&theme=algolia&margin-w=15&margin-h=15&no-bg=true&no-frame=true&column=7
+)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhsin95952" alt="muhsin95952" /></a> </p>
 
