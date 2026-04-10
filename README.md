@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhsin95952&label=Profile%20views&color=0e75b6&style=flat" alt="muhsin95952" /> </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/muhsin95952/github-profile-trophy)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhsin95952" alt="muhsin95952" /></a> </p>
 
 - 🌱 I’m currently Working on **DevOps Engineering**
